@@ -1,0 +1,11 @@
+{
+  "name": "parse-tweet",
+  "version": "1.0.0",
+  "description": "Parse the result from the Twitter API into distinct tweet parts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ken Mazaika",
+  "license": "MIT"
+}
