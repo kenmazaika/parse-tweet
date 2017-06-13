@@ -101,3 +101,7 @@ var tweet = {
 
 console.log(parseTweet(tweet));
 ```
+
+## License
+
+parse-tweet is released under the [MIT License](http://www.opensource.org/licenses/MIT)
